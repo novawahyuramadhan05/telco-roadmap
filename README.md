@@ -7,26 +7,23 @@ This repository serves as a structured roadmap for my learning and portfolio dev
 
 The goal of this repository is not to store all implementations directly, but to act as a central system that maps learning progress, project structure, and links to individual simulation-based repositories.
 
-Domains Covered
+Domains Covered:
+
 1. Network Engineering
-
 Focus on how data moves across packet-based networks, including:
-
 Packet flow simulation
 Routing and topology analysis
 Latency, throughput, and congestion modeling
+
 2. Signal Processing
-
 Focus on how information is represented and transmitted as signals, including:
-
 Signal generation and visualization
 Digital modulation techniques (ASK, FSK, PSK)
 Noise, distortion, and signal recovery
 Basic communication system modeling
+
 3. Radio Access Network (RAN)
-
 Focus on wireless communication between user devices and base stations, including:
-
 Cellular coverage modeling
 Signal propagation and path loss
 Mobility and handover mechanisms
